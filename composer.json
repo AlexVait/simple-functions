@@ -1,5 +1,6 @@
 {
-    "name": "alex/simple-functions",
+    "name": "alexvait/simple-functions",
+    "description": "Simple functions",
     "authors": [
         {
             "name": "Alex Vait",
@@ -9,10 +10,5 @@
     "minimum-stability": "dev",
     "require": {
         "php": ">=5.2.0"
-    },
-    "autoload": {
-        "psr-0": {
-            "Math": "src/"
-        }
-    }	
+    }
 }
